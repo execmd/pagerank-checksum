@@ -1,0 +1,28 @@
+{
+  "name": "pagerank-checksum",
+  "version": "1.0.0",
+  "description": "Library for Google Page Rank checksum calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/execmd/pagerank-checksum.git"
+  },
+  "keywords": [
+    "pagerank",
+    "checksum",
+    "nodejs",
+    "javascript",
+    "google",
+    "page",
+    "rank"
+  ],
+  "author": "Denis Perepelicin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/execmd/pagerank-checksum/issues"
+  },
+  "homepage": "https://github.com/execmd/pagerank-checksum"
+}
